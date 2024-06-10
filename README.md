@@ -19,7 +19,7 @@ Yelp Dataset: The primary datasets used for this analysis are the 'Reviews', 'Bu
 ### Tools
 - Python Jupyter Notebook - Data Cleaning, Exploratory Data Analysis (EDA), NLP Modeling, and Regression Modeling
 
-### Step 1: Data Cleaning/Preparation
+### Step 1: Data Preparation
 During the initial data preparation phase, I extracted the Yelp data from the downloaded tar file and converted them into dataframes for further analysis. In the initial data preparation phase, I performed the following tasks:
 - Data loading and inspection
 - Checking for missing values
