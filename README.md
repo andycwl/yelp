@@ -16,6 +16,8 @@ This project involves data cleaning, exploratory data analysis, and data modelin
 Yelp Dataset: The primary datasets used for this analysis are the 'Reviews', 'Businesses', 'Metropolitan Areas', and 'Tips' datasets. These data contains detailed information about each restaurant's business information, each user reviews' detail, and each user's information. 
 - [Dataset Download here](https://www.yelp.com/dataset)
 - [Dataset User Agreement](https://github.com/andycwl/yelp/files/15144501/YelpDataset_User_Agreement.pdf)
+- [Data Dictionary](https://www.yelp.com/dataset/documentation/main)
+
 ### Tools
 - Python Jupyter Notebook - Data Cleaning, Exploratory Data Analysis (EDA), NLP Modeling, and Regression Modeling
 
